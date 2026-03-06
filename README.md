@@ -1,63 +1,68 @@
 # <div align="center"> Hi there 👋 it's me Jonny </div>
 
 ## About Me
-I'm a Passionate full-stack web developer and problem solver with a strong love for technology. I'm dedicated to building innovative projects that not only enhance my skills but also solve real-world problems. My journey in tech has been driven by curiosity and a desire to create meaningful digital experiences.
 
-- **Learning**: Continuously exploring new technologies and best practices
-- **Open Source**: Contributing to and learning from the developer community
-- **Building Projects**: Turning ideas into reality through code
+I am a passionate full-stack web developer with a strong interest in building reliable and scalable web applications. I love exploring new technologies and transforming ideas into practical digital solutions that create real value for users. For me, programming is not just about writing code it's about creating useful and meaningful digital experiences.
+
+My journey in technology is driven by continuous learning, curiosity, and a commitment to improving my craft. I am always exploring new tools, frameworks, and best practices to build better and more efficient applications.
+
+- **Learning**: Always exploring new technologies and improving my development skills
+- **Open Source**: Learning from and contributing to the developer community
+- **Building Projects**: Turning ideas into practical applications through code
 
 ## 👨‍💻 Technical Stack
 
 ### Languages
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/> PHP
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/> Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/> C#
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> JavaScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/> TypeScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/> &nbsp; PHP &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/> &nbsp; Python &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/> &nbsp; C# &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> &nbsp; JavaScript &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/> &nbsp; TypeScript
 </div>
-  
+
 ### Frontend
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/> React
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/> Vue.js
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50" alt="Angular"/> Angular
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/> HTML5
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/> CSS3
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/> Tailwind CSS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/> Bootstrap
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/> &nbsp; React &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/> &nbsp; HTML5 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/> &nbsp; CSS3 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/> &nbsp; Tailwind CSS
 </div>
 
 ### Backend
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/> Node.js
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/> Express
-<img src="https://simpleicons.org/icons/django.svg" width="50" height="50" alt="Django"/> Django
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/> Flask
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/> Laravel
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt="ASP.NET"/> ASP.NET
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/> &nbsp; Node.js &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/> &nbsp; Express &nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/django.svg" width="50" height="50" alt="Django"/> &nbsp; Django
 </div>
 
 ### Databases
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/> PostgreSQL
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/> MySQL
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/> SQLite
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/> &nbsp; PostgreSQL &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/> &nbsp; MySQL &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/> &nbsp; SQLite
 </div>
-  
+
 ### Tools
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/> VS Code
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="50" height="50" alt="Visual Studio"/> Visual Studio 2026
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/> Git
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/> Postman
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/> &nbsp; VS Code &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/> &nbsp; Git &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/> &nbsp; Postman
 </div>
 
 ### DevOps
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Actions"/> GitHub Actions
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" alt="GitLab"/> GitLab
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Actions"/> &nbsp; GitHub Actions &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" alt="GitLab"/> &nbsp; GitLab
 </div>
-  
+
 **⭐️ Feel free to explore my repositories and connect with me! I'm always open to collaboration and interesting project ideas. Let's build something amazing together!**
+<div align="center">
+<p><small>Last updated: March 6 2026</small></p>
+</div>
