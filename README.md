@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am a passionate full-stack web developer with a strong interest in building reliable and scalable web applications. I love exploring new technologies and transforming ideas into practical digital solutions that create real value for users. For me, programming is not just about writing code it's about creating useful and meaningful digital experiences.
+I am a passionate **Full-Stack Web Developer** with a strong interest in building reliable and scalable web applications. I love exploring new technologies and transforming ideas into practical digital solutions that create real value for users. For me, programming is not just about writing code it's about creating useful and meaningful digital experiences.
 
-My journey in technology is driven by continuous learning, curiosity, and a commitment to improving my craft. I am always exploring new tools, frameworks, and best practices to build better and more efficient applications.
+My journey in technology is driven by continuous **learning**, **curiosity**, and a **commitment** to improving my craft. I am always exploring new tools, frameworks, and best practices to build better and more efficient applications.
 
 - **Learning**: Always exploring new technologies and improving my development skills
 - **Open Source**: Learning from and contributing to the developer community
