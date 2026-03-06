@@ -62,7 +62,7 @@ My journey in technology is driven by continuous **learning**, **curiosity**, an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="50" height="50" alt="GitLab"/> &nbsp; GitLab
 </div>
 
-**⭐️ Feel free to explore my repositories and connect with me! I'm always open to collaboration and interesting project ideas. Let's build something amazing together!**
+**⭐️ Feel free to explore my repositories to see the projects I’ve been working on. I’m always open to collaboration, sharing ideas, and contributing to meaningful projects. If you’re interested in working together or discussing innovative solutions, don’t hesitate to connect. Let’s build something impactful together.**
 <div align="center">
 <p><small>Last updated: March 6 2026</small></p>
 </div>
