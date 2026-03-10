@@ -16,7 +16,7 @@
   </a>
   </div>
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 I am a passionate **Full-Stack Web Developer** with a strong interest in building reliable and scalable web applications. I love exploring new technologies and transforming ideas into practical digital solutions that create real value for users. For me, programming is not just about writing code it's about creating useful and meaningful digital experiences.
 
@@ -57,16 +57,12 @@ My journey in technology is driven by continuous **learning**, **curiosity**, an
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ph4n70mC0de&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4n70mC0de&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" width="45%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ph4n70mC0de&theme=dark&hide_border=true&stroke=00f0ff&fire=00f0ff" alt="GitHub Streak" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ph4n70mC0de&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ph4n70mC0de&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ph4n70mC0de&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ph4n70mC0de&theme=github_dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ph4n70mC0de&theme=transparent&hide_border=true&" align="center" />
 </div>
 
 ---
