@@ -73,5 +73,5 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
   </a>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+%F0%9F%A4%97;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Thank You Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+%F0%9F%A4%97;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Thank You Animation" />
 </div>
