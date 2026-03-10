@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Hello%2C+it's+me+Jonny+%F0%9F%91%8B;I'm+a+Full-Stack+Web+Developer+%F0%9F%92%BB;Welcome+to+My+Profile+%F0%9F%8C%9F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Hello%2C+it's+me+Jonny+%F0%9F%91%8B;I'm+a+ComSci+Student+%F0%9F%92%BB;Welcome+to+My+Profile+%F0%9F%8C%9F" alt="Typing Animation" />
 </h1>
 
 <div align="center">
@@ -16,15 +16,11 @@
   </a>
   </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-I am a passionate **Full-Stack Web Developer** with a strong interest in building reliable and scalable web applications. I love exploring new technologies and transforming ideas into practical digital solutions that create real value for users. For me, programming is not just about writing code it's about creating useful and meaningful digital experiences.
-
-My journey in technology is driven by continuous **learning**, **curiosity**, and a **commitment** to improving my craft. I am always exploring new tools, frameworks, and best practices to build better and more efficient applications.
-
-- **Learning**: Always exploring new technologies and improving my development skills
-- **Open Source**: Learning from and contributing to the developer community
-- **Building Projects**: Turning ideas into practical applications through code
+I am passionate about **Web Development** and continuously expanding my knowledge in the field of **Computer Science**.
+Currently, I am focused on learning the fundamentals of programming, problem-solving, and modern computing concepts. I enjoy exploring new technologies and developing my skills through hands-on projects.
+This GitHub profile showcases my learning journey, projects, and experiments as I grow as a developer.
 
 ---
 
