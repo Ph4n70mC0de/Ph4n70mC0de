@@ -5,16 +5,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ph4n70mC0de&label=Profile%20Views&color=9929EA&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Ph4n70mC0de?label=Followers&style=for-the-badge&color=00f0ff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ph4n70mC0de?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="GitHub Stars" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/Ph4n70mC0de" target="_blank">
-    <img src="https://img.shields.io/github/stars/Ph4n70mC0de?label=Stars&style=social&logo=github" alt="GitHub Stars" />
-  </a>
-   <a href="https://www.facebook.com/arjs.candes" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-arjs.candes-blue?style=for-the-badge&logo=twitter" alt="Facebook" />
-  </a>
-  </div>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -69,8 +61,13 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 
 <div align="center">
   <a href="mailto:arjscandes73@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-arjscandes73@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-arjscandes73@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
+  &nbsp;
+  <a href="https://www.facebook.com/arjs.candes" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-arjs.candes-1877F2?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+</div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+%F0%9F%A4%97;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Thank You Animation" />
