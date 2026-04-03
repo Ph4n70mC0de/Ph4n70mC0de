@@ -22,7 +22,7 @@
 
 ### 🚀 About Me  
 
-I am AI user and passionate about **Web Development** and continuously expanding my knowledge in the field of **Computer Science**.
+I am passionate about **Web Development** and continuously expanding my knowledge in the field of **Computer Science**.
 Currently, I am focused on learning the fundamentals of programming, problem-solving, and modern computing concepts. I enjoy exploring new technologies and developing my skills through hands-on projects.
 This GitHub profile showcases my learning journey, projects, and experiments as I grow as a developer.
 
