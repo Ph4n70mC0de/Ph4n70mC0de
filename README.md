@@ -20,7 +20,7 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### 🚀 About Me  
+## About Me  
 
 I am passionate about **Web Development** and continuously expanding my knowledge in the field of **Computer Science**.
 Currently, I am focused on learning the fundamentals of programming, problem-solving, and modern computing concepts. I enjoy exploring new technologies and developing my skills through hands-on projects.
@@ -28,7 +28,7 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 
 ---
 
-### 🧰 My Tech Toolbox
+## My Tech Toolbox
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,6 +37,9 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 </p>
 
 ---
+
+## GitHub Analytics
+
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
