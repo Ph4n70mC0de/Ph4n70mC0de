@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Hello%2C+it's+me+Jonny+%F0%9F%91%8B;I'm+a+ComSci+Student+%F0%9F%92%BB;Welcome+to+My+Profile+%F0%9F%8C%9F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Hello%2C+it's+me+Jonny;I'm+a+ComSci+Student;Welcome+to+My+Profile" alt="Typing Animation" />
 </h1>
 
 <div align="center">
@@ -73,5 +73,5 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+%F0%9F%A4%97;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Thank You Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together!" alt="Thank You Animation" />
 </div>
