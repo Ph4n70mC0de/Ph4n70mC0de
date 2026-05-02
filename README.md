@@ -24,6 +24,16 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 
 ---
 
+## My Certificates
+
+<div align="center">
+  <a href="https://www.hackerrank.com/certificates/0a970850db8a" target="_blank">
+    <img src="https://img.shields.io/badge/Csharp%20(Basic)-2026-831C91?style=for-the-badge&logo=csharp" alt="C# (Basic)" />
+  </a>
+</div>
+
+---
+
 ## My Tech Toolbox
 
 <p align="center">
