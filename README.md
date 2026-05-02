@@ -48,10 +48,10 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Ph4n70mC0de/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ph4n70mC0de&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=500"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Ph4n70mC0de/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4n70mC0de&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500"/>
 </a>
 
