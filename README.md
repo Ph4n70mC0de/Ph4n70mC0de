@@ -44,35 +44,8 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
-
-<a href="https://github.com/Ph4n70mC0de/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ph4n70mC0de&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=500"/>
-</a>
-<a href="https://github.com/Ph4n70mC0de/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4n70mC0de&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ph4n70mC0de&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ph4n70mC0de&theme=tokyo-night&hide_border=true)
-
-</div>
-
-<div align="center">
-
----
-
+  
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
