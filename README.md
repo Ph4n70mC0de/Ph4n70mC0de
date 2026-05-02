@@ -46,7 +46,7 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 
 <div align="center">
   <a href="https://www.hackerrank.com/certificates/d9eab78e7510" target="_blank">
-    <img src="https://img.shields.io/badge/Node (Basic) Certificate-May 2, 2026-F8DE22?style=for-the-badge&logo=node.js" alt="node.js" />
+    <img src="https://img.shields.io/badge/Node (Basic) Certificate-May 2, 2026-48A111?style=for-the-badge&logo=node.js" alt="node.js" />
   </a>
 </div>
 
