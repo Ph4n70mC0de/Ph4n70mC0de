@@ -28,7 +28,13 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 
 <div align="center">
   <a href="https://www.hackerrank.com/certificates/0a970850db8a" target="_blank">
-    <img src="https://img.shields.io/badge/Csharp%20(Basic)-2026-831C91?style=for-the-badge&logo=csharp" alt="C# (Basic)" />
+    <img src="https://img.shields.io/badge/csharp-2026-831C91?style=for-the-badge&logo=csharp" alt="C# (Basic)" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.hackerrank.com/certificates/d97d6baaceb7" target="_blank">
+    <img src="https://img.shields.io/badge/css-2026-2F2FE4?style=for-the-badge&logo=css" alt="CSS (Basic)" />
   </a>
 </div>
 
