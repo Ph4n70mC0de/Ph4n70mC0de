@@ -20,7 +20,11 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-This GitHub profile showcases my learning journey, projects, and experiments as I grow as a developer.
+<div align="center">
+  This GitHub profile showcases my learning journey, projects, and experiments as I grow as a developer.
+</div>
+&nbsp;
+
 
 ## My Certificates
 
@@ -47,8 +51,8 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
     <img src="https://img.shields.io/badge/Node (Basic) Certificate-May 2, 2026-48A111?style=for-the-badge&logo=node.js" alt="node.js" />
   </a>
 </div>
+&nbsp;
 
----
 
 ## My Tech Toolbox
 
@@ -57,8 +61,8 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
     <img src="https://skillicons.dev/icons?i=php,python,cs,javascript,typescript,react,html,css,tailwindcss,nodejs,express,django,postgresql,mysql,sqlite,vscode,git,postman,githubactions,gitlab&perline=10" />
   </a>
 </p>
+&nbsp;
 
----
 
 <div align="center">
   
@@ -70,3 +74,4 @@ This GitHub profile showcases my learning journey, projects, and experiments as 
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together!" alt="Thank You Animation" />
 </div>
+&nbsp;
