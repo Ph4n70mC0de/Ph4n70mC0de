@@ -22,8 +22,6 @@
 
 This GitHub profile showcases my learning journey, projects, and experiments as I grow as a developer.
 
----
-
 ## My Certificates
 
 <div align="center">
