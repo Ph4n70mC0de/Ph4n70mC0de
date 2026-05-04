@@ -35,7 +35,7 @@
 </div>
 <div align="center">
   <a href="https://www.hackerrank.com/certificates/iframe/8cbd78514acf" target="_blank">
-    <img src="https://img.shields.io/badge/Rest API (Intermediate) Certificate-May 3, 2026-48A111?style=for-the-badge&logo=restapi" alt="restapi" />
+    <img src="https://img.shields.io/badge/Rest API (Intermediate) Certificate-May 3, 2026-2FA4D7?style=for-the-badge&logo=restapi" alt="restapi" />
   </a>
 </div>
 
