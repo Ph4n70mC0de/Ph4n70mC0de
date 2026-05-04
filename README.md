@@ -30,25 +30,7 @@
 
 <div align="center">
   <a href="https://www.hackerrank.com/certificates/0a970850db8a" target="_blank">
-    <img src="https://img.shields.io/badge/CSharp (Basic) Certificate-May 2, 2026-831C91?style=for-the-badge&logo=c-sharp" alt="c-sharp" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.hackerrank.com/certificates/d97d6baaceb7" target="_blank">
-    <img src="https://img.shields.io/badge/CSS (Basic) Certificate-May 2, 2026-2F2FE4?style=for-the-badge&logo=css" alt="css" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.hackerrank.com/certificates/bb34a9fc10cc" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript (Basic) Certificate-May 2, 2026-F8DE22?style=for-the-badge&logo=javascript" alt="javascript" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.hackerrank.com/certificates/d9eab78e7510" target="_blank">
-    <img src="https://img.shields.io/badge/Node (Basic) Certificate-May 2, 2026-48A111?style=for-the-badge&logo=node.js" alt="node.js" />
+    <img src="https://img.shields.io/badge/Click Me!-48A111?style=for-the-badge&logo=c-sharp" alt="c-sharp" />
   </a>
 </div>
 &nbsp;
