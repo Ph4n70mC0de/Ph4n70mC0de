@@ -29,10 +29,16 @@
 ## My Certificates
 
 <div align="center">
-  <a href="https://www.hackerrank.com/certificates/0a970850db8a" target="_blank">
-    <img src="https://img.shields.io/badge/Click Me!-48A111?style=for-the-badge&logo=c-sharp" alt="c-sharp" />
+  <a href="https://www.hackerrank.com/certificates/iframe/0a970850db8a" target="_blank">
+    <img src="https://img.shields.io/badge/CSharp (Basic) Certificate-May 2, 2026-831C91?style=for-the-badge&logo=c-sharp" alt="c-sharp" />
   </a>
 </div>
+<div align="center">
+  <a href="https://www.hackerrank.com/certificates/iframe/8cbd78514acf" target="_blank">
+    <img src="https://img.shields.io/badge/Rest API (Intermediate) Certificate-May 3, 2026-48A111?style=for-the-badge&logo=restapi" alt="restapi" />
+  </a>
+</div>
+
 &nbsp;
 
 
