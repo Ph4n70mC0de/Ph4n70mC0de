@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Hello%2C+it's+me+Jonny;I'm+a+ComSci+Student;Welcome+to+My+Profile" alt="Typing Animation" />
-</h1>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ph4n70mC0de&label=Profile%20Views&color=9929EA&style=for-the-badge" alt="Profile Views" />
