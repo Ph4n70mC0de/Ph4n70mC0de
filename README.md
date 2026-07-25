@@ -42,16 +42,6 @@
 &nbsp;
 
 
-## My Tech Toolbox
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,cs,javascript,typescript,react,html,css,tailwindcss,nodejs,express,django,postgresql,mysql,sqlite,vscode,git,postman,githubactions,gitlab&perline=10" />
-  </a>
-</p>
-&nbsp;
-
-
 <div align="center">
   
 ### Random Dev Quote
