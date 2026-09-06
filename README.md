@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ph4n70mC0de)
+![](https://github-readme-trophy.vercel.app/?username=Ph4n70mC0de&theme=dracula)
 
 ## 📈 Contribution Graph
 
