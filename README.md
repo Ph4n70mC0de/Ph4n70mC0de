@@ -1,34 +1,83 @@
 <p align="center">
-  <img src="Banner.png" alt="PH4N70MC0DE Banner" width="70%" />
+  <img src="Banner.png" alt="Ph4n70mC0de Banner" width="70%" />
 </p>
 
-# Hi 👋, I'm Ph4n70mC0de
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ph4n70mC0de&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
-🔭 I'm currently working on **Building practical software projects focused on AI, web development, APIs, automation, and modern application architecture. I'm also developing projects that can solve real-world problems and strengthen my skills as a Computer Science student.**
+<h1 align="center">Hi 👋, I'm Ph4n70mC0de</h1>
 
-👯 I'm looking to collaborate on **Open-source projects, AI-powered applications, web platforms, developer tools, and innovative projects where I can learn, contribute, and build alongside other developers.**
+<p align="center">Computer Science student building practical software with a focus on <strong>AI, web development, APIs, automation, and modern application architecture.</strong></p>
 
-🤝 I'm looking for help with **Improving my software architecture, backend development, AI/ML integration, system design, DevOps, and production-ready development practices.**
+## 👨‍💻 About Me
 
-🌱 I'm currently learning **Python, FastAPI, React, TypeScript, SQL, REST APIs, Clean Architecture, AI/ML, Docker, GitHub Actions, and cloud deployment.**
+- 🔭 Building practical projects that turn ideas into working software.
+- 🌱 Learning and improving across backend development, AI/ML, system design, DevOps, and cloud deployment.
+- 🧩 Interested in APIs, developer tools, automation, and AI-powered applications.
+- 🤝 Open to collaborating on useful open-source and software projects.
+- ⚡ I enjoy building projects that solve real problems rather than just following tutorials.
 
-💬 Ask me about **Computer Science projects, web development, APIs, AI-powered applications, software architecture, GitHub, and building projects from idea to implementation.**
+## 🛠️ Tech Stack
 
-⚡ Fun fact **I enjoy turning ideas into working software—especially projects that combine technology, automation, and AI to solve real-world problems.**
+### Languages
+<p><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Languages" /></p>
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=vscode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,vite" alt="Frontend technologies" /></p>
 
-## 📊 GitHub Stats:
-![Ph4n70mC0de'sGitHubstats](https://github-stats-alpha.vercel.app/api?username=Ph4n70mC0de&cc=141321&tc=a9fef7&ic=fe428e&bc=141321)![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ph4n70mC0de&theme=radical&hide_border=true&layout=compact)
+### Backend & APIs
+<p><img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi" alt="Backend technologies" /></p>
+
+### Databases & Cloud
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,vercel" alt="Databases and cloud" /></p>
+
+### AI / Machine Learning
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI and machine learning" /></p>
+
+### Tools & DevOps
+<p><img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vscode,postman,figma" alt="Tools and DevOps" /></p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ph4n70mC0de&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4n70mC0de&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
+</p>
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=Ph4n70mC0de&hide_border=true&theme=transparent" alt="GitHub Streak" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Ph4n70mC0de&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ph4n70mC0de&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" /></p>
 
-## 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=Ph4n70mC0de&style=for-the-badge&color=blueviolet)
+## 📈 Contribution Graph
 
-<!-- Proudly created with GitHub Profile README Generator 🚀 -->
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ph4n70mC0de&hide_border=true&theme=github-compact" alt="Contribution Graph" /></p>
+
+## 🧭 Current Focus
+
+```text
+AI & ML              ███████████████░░░  Learning
+Backend & APIs       ████████████████░░  Building
+Frontend             ███████████████░░░  Building
+System Design        ████████████░░░░░░  Improving
+DevOps & Cloud       ███████████░░░░░░░  Learning
+Open Source          ██████████░░░░░░░░  Growing
+```
+
+## 📌 Featured Projects
+
+I use this profile to document projects, experiments, and the things I'm learning while building software.
+
+- 🤖 AI-powered applications and developer tools
+- 🌐 Web platforms and REST APIs
+- 📱 Practical automation projects
+- 🧱 Applications using clean and maintainable architecture
+- 🔬 Academic and real-world software projects
+
+## 📫 Let's Connect
+
+<p align="center"><a href="https://github.com/Ph4n70mC0de"><img src="https://img.shields.io/badge/GitHub-Ph4n70mC0de-181717?style=for-the-badge&logo=github" alt="GitHub" /></a></p>
+
+<p align="center"><sub>Built with code, curiosity, and a lot of debugging.</sub></p>
