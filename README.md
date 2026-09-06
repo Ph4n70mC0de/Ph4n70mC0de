@@ -20,23 +20,31 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Languages" /></p>
-
-### Frontend
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,vite" alt="Frontend technologies" /></p>
-
-### Backend & APIs
-<p><img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi" alt="Backend technologies" /></p>
-
-### Databases & Cloud
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,vercel" alt="Databases and cloud" /></p>
-
-### AI / Machine Learning
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI and machine learning" /></p>
-
-### Tools & DevOps
-<p><img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vscode,postman,figma" alt="Tools and DevOps" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -49,13 +57,13 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ph4n70mC0de&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
-</p>
+![](https://github-trophies.vercel.app/?username=Ph4n70mC0de)
 
 ## 📈 Contribution Graph
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ph4n70C0de&hide_border=true&theme=github-compact" alt="Contribution Graph" /></p>
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/Ph4n70mC0de?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" alt="Contribution Graph" />
+</p>
 
 ## 🧭 Current Focus
 
@@ -77,9 +85,3 @@ I use this profile to document projects, experiments, and the things I'm learnin
 - 📱 Practical automation projects
 - 🧱 Applications using clean and maintainable architecture
 - 🔬 Academic and real-world software projects
-
-## 📫 Let's Connect
-
-<p align="center"><a href="https://github.com/Ph4n70mC0de"><img src="https://img.shields.io/badge/GitHub-Ph4n70mC0de-181717?style=for-the-badge&logo=github" alt="GitHub" /></a></p>
-
-<p align="center"><sub>Built with code, curiosity, and a lot of debugging.</sub></p>
