@@ -50,7 +50,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ph4n70mC0de&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Ph4n70mC0de&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ## 📈 Contribution Graph
