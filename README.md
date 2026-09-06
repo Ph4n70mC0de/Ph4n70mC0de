@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ph4n70mC0de&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4n70mC0de&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Ph4n70mC0de&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ph4n70mC0de&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=Ph4n70mC0de&hide_border=true&theme=transparent" alt="GitHub Streak" /></p>
