@@ -49,11 +49,13 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ph4n70mC0de&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ph4n70mC0de&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
 ## 📈 Contribution Graph
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ph4n70mC0de&hide_border=true&theme=github-compact" alt="Contribution Graph" /></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ph4n70C0de&hide_border=true&theme=github-compact" alt="Contribution Graph" /></p>
 
 ## 🧭 Current Focus
 
