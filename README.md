@@ -2,10 +2,6 @@
   <img src="Banner.png" alt="PH4N70MC0DE Banner" width="70%" />
 </p>
 
-<p align="center">
-  <img src="https://hits.sh/github.com/PH4N70MC0DE/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github"/>
-</p>
-
 <img src="https://raw.githubusercontent.com/PH4N70MC0DE/README_Design_Kit/main/public/Assets/tech-pulse-dotted-line.gif" width="100%" />
 
 <p align="center">
