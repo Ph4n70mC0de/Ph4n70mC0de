@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=Ph4n70mC0de)
+![](https://github-profile-trophy.vercel.app/?username=Ph4n70mC0de)
 
 ## 📈 Contribution Graph
 
