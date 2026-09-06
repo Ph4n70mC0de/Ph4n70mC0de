@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ph4n70mC0de&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ph4n70mC0de</h1>
+<h1 align="center">Hi 👋, I'm Jonny Candes</h1>
 
 <p align="center">Computer Science student building practical software with a focus on <strong>AI, web development, APIs, automation, and modern application architecture.</strong></p>
 
