@@ -61,37 +61,19 @@
 
 ## 🏆 Certifications
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.hackerrank.com/certificates/iframe/cdc6047cfe3f" target="_blank">
-        <div style="border: 2px solid #1DB954; border-radius: 12px; padding: 20px; background: #0a0a0a; color: #fff; text-decoration: none; transition: all 0.3s;">
-          <h3 style="margin: 0 0 8px; font-family: 'Courier New', monospace; color: #1DB954;">Software Engineer</h3>
-          <p style="margin: 0; font-size: 12px; color: #aaa;">HackerRank Certificate</p>
-          <span style="display: inline-block; margin-top: 12px; padding: 6px 16px; background: #1DB954; color: #000; border-radius: 20px; font-size: 12px; font-weight: bold;">View Certificate</span>
-        </div>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.hackerrank.com/certificates/iframe/8cbd78514acf" target="_blank">
-        <div style="border: 2px solid #1DB954; border-radius: 12px; padding: 20px; background: #0a0a0a; color: #fff; text-decoration: none; transition: all 0.3s;">
-          <h3 style="margin: 0 0 8px; font-family: 'Courier New', monospace; color: #1DB954;">REST API (Intermediate)</h3>
-          <p style="margin: 0; font-size: 12px; color: #aaa;">HackerRank Certificate</p>
-          <span style="display: inline-block; margin-top: 12px; padding: 6px 16px; background: #1DB954; color: #000; border-radius: 20px; font-size: 12px; font-weight: bold;">View Certificate</span>
-        </div>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.hackerrank.com/certificates/iframe/c1c7a64b86db" target="_blank">
-        <div style="border: 2px solid #1DB954; border-radius: 12px; padding: 20px; background: #0a0a0a; color: #fff; text-decoration: none; transition: all 0.3s;">
-          <h3 style="margin: 0 0 8px; font-family: 'Courier New', monospace; color: #1DB954;">SQL (Advanced)</h3>
-          <p style="margin: 0; font-size: 12px; color: #aaa;">HackerRank Certificate</p>
-          <span style="display: inline-block; margin-top: 12px; padding: 6px 16px; background: #1DB954; color: #000; border-radius: 20px; font-size: 12px; font-weight: bold;">View Certificate</span>
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/iframe/cdc6047cfe3f" target="_blank">
+    <img src="https://img.shields.io/badge/Software_Engineer-Role-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Engineer Certificate" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/8cbd78514acf" target="_blank">
+    <img src="https://img.shields.io/badge/REST_API_Intermediate-Skill-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="REST API Intermediate Certificate" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/c1c7a64b86db" target="_blank">
+    <img src="https://img.shields.io/badge/SQL_Advanced-Skill-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Advanced Certificate" />
+  </a>
+</p>
+
+
 
 
 ## 📈 Contribution Graph
